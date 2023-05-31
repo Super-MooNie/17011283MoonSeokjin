@@ -1,4 +1,3 @@
-$ git push -u origin +master
 function R = solveRangeInPerifocalFrame(sa,ec,ta)
     %range in Perifocal frame
 function Q = solveVelocityInPerifocalFrame(sa,ec,ta)
@@ -40,4 +39,5 @@ function Q = solveVelocityInPerifocalFrame(sa,ec,ta)
     disp(R) ;
     disp("velocityInPQW = ")
     disp(Q) ;
+end
 end
