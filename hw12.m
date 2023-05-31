@@ -40,3 +40,4 @@ function Q = solveVelocityInPerifocalFrame(sa,ec,ta)
     disp(R) ;
     disp("velocityInPQW = ")
     disp(Q) ;
+end
