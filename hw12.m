@@ -39,3 +39,4 @@ function Q = solveVelocityInPerifocalFrame(sa,ec,ta)
     disp(R) ;
     disp("velocityInPQW = ")
     disp(Q) ;
+$ git push -u origin +master
